@@ -1,4 +1,4 @@
-package com.laptrinhjavaweb.api;
+package com.laptrinhjavaweb;
 
 import org.springframework.boot.SpringApplication;
 
